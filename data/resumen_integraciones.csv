@@ -1,0 +1,21 @@
+tanda,termino,media_5a,media_12m,media_12m_previos,crecimiento_%,pico,fecha_pico
+int_anchor,shopify,0.9,1.0,1.0,0.0,2,2026-06
+int_anchor,mercado libre,64.3,46.9,53.9,-13.1,100,2022-12
+int_anchor,amazon,56.3,46.8,50.4,-7.2,89,2023-11
+int_anchor,dhl,11.5,9.8,11.2,-13.3,23,2023-12
+int_anchor,fedex,9.5,6.0,8.2,-27.3,20,2023-11
+int_mx,mercado libre,64.3,46.9,53.9,-13.1,100,2022-12
+int_mx,amazon mexico,7.3,4.8,5.6,-14.8,14,2023-07
+int_mx,shopify mexico,0.0,0.0,0.0,,0,2021-11
+int_mx,dhl mexico,0.1,0.1,0.1,-25.0,1,2021-11
+int_mx,estafeta,13.0,8.8,10.2,-13.9,33,2021-12
+int_systems,integracion de sistemas,0.0,0.0,0.0,,0,2021-11
+int_systems,api,18.9,34.8,17.5,99.6,100,2026-06
+int_systems,ecommerce,3.1,3.9,2.8,38.4,9,2026-11
+int_systems,paqueteria,27.4,23.1,25.2,-8.7,47,2023-12
+int_systems,proveedores,18.2,15.8,18.4,-14.3,24,2022-02
+int_odoo,shopify odoo,0.3,0.2,0.0,,71,2022-02
+int_odoo,mercado libre odoo,0.0,0.0,0.0,,0,2021-11
+int_odoo,amazon odoo,1.0,1.9,1.5,25.0,94,2025-11
+int_odoo,api odoo,2.4,4.8,1.9,151.0,100,2025-05
+int_odoo,conector odoo,0.6,0.0,1.4,-100.0,75,2022-04

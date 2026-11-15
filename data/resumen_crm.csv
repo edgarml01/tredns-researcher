@@ -1,0 +1,21 @@
+tanda,termino,media_5a,media_12m,media_12m_previos,crecimiento_%,pico,fecha_pico
+crm_global,hubspot,20.5,23.1,23.2,-0.5,100,2025-06
+crm_global,salesforce,36.1,35.1,38.7,-9.1,66,2026-06
+crm_global,zoho,31.6,34.9,36.6,-4.5,48,2026-07
+crm_global,pipedrive,2.4,1.9,2.8,-33.8,6,2025-09
+crm_global,bitrix24,2.8,2.4,3.2,-26.2,5,2022-11
+crm_local,kommo,35.5,61.1,65.9,-7.3,100,2025-07
+crm_local,upnify,7.1,4.0,11.5,-65.1,30,2025-06
+crm_local,ventia,0.0,0.0,0.0,,0,2021-11
+crm_local,datacrm,0.0,0.0,0.0,,0,2021-11
+crm_local,odoo crm,0.7,1.1,1.4,-19.4,16,2025-08
+crm_intent,crm,57.7,70.4,66.8,5.3,100,2026-02
+crm_intent,crm para pymes,0.0,0.0,0.0,-100.0,2,2025-10
+crm_intent,whatsapp crm,1.5,2.1,2.0,4.7,4,2025-04
+crm_intent,sistema crm,0.6,0.5,0.6,-16.7,3,2021-12
+crm_intent,software crm,2.2,3.5,2.3,48.8,9,2026-10
+crm_anchor,hubspot,20.5,23.1,23.2,-0.5,100,2025-06
+crm_anchor,kommo,3.8,6.5,7.1,-8.6,11,2025-07
+crm_anchor,pipedrive,2.4,1.9,2.8,-33.8,6,2025-09
+crm_anchor,zoho,31.6,34.9,36.6,-4.5,48,2026-07
+crm_anchor,odoo,31.7,38.9,45.5,-14.6,56,2025-08

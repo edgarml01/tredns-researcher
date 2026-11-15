@@ -1,0 +1,36 @@
+tanda,termino,media_5a,media_12m,media_12m_previos,crecimiento_%,pico,fecha_pico
+ancla_mercado,desarrollo de software,5.5,4.1,5.3,-23.8,15,2022-09
+ancla_mercado,odoo,12.6,15.4,18.0,-14.2,22,2025-08
+ancla_mercado,erp,16.0,17.7,18.3,-3.3,29,2025-06
+ancla_mercado,inteligencia artificial,53.6,57.4,68.4,-16.2,100,2023-10
+ancla_mercado,power bi,17.6,17.8,20.7,-13.9,25,2025-05
+erp_competencia,odoo,18.2,22.3,26.2,-14.6,32,2025-08
+erp_competencia,sap,80.6,81.0,87.6,-7.5,100,2025-03
+erp_competencia,erp,23.2,25.7,26.6,-3.3,42,2025-06
+erp_competencia,sistema de inventario,1.5,1.2,1.4,-13.7,4,2022-02
+erp_competencia,punto de venta,17.6,18.3,18.0,1.7,23,2026-07
+software_medida,software a la medida,0.3,0.2,0.2,11.1,5,2025-09
+software_medida,desarrollo de software,37.3,27.6,36.1,-23.5,100,2022-09
+software_medida,aplicación móvil,11.1,14.2,10.8,31.6,24,2022-05
+software_medida,automatización,32.6,33.8,36.6,-7.6,57,2025-08
+software_medida,n8n,20.1,53.3,47.3,12.8,94,2025-11
+ia_automatizacion,inteligencia artificial,2.1,2.2,2.6,-17.5,4,2023-10
+ia_automatizacion,chatgpt,33.9,61.2,68.4,-10.5,100,2025-03
+ia_automatizacion,automatización,0.0,0.0,0.0,,0,2021-11
+ia_automatizacion,agentes de ia,0.0,0.0,0.0,,0,2021-11
+ia_automatizacion,chatbot,0.0,0.0,0.0,,0,2021-11
+finanzas_cfdi,facturación electrónica,1.0,1.0,1.0,0.0,2,2021-11
+finanzas_cfdi,cfdi,43.2,41.6,44.8,-7.2,73,2022-01
+finanzas_cfdi,sistema contable,0.9,0.6,0.9,-35.6,2,2022-02
+finanzas_cfdi,contabilidad,44.2,30.0,40.1,-25.3,100,2022-02
+finanzas_cfdi,odoo,7.2,8.8,10.3,-15.4,13,2025-08
+bi_datos,power bi,3.8,3.8,4.5,-15.1,5,2024-02
+bi_datos,dashboard,2.8,3.7,3.0,22.8,7,2026-06
+bi_datos,business intelligence,0.1,0.7,0.1,1100.0,2,2026-06
+bi_datos,excel,79.5,65.8,80.9,-18.7,100,2023-11
+bi_datos,metabase,0.0,0.0,0.0,,0,2021-11
+nearshoring,nearshoring,17.4,8.2,10.0,-18.8,100,2024-04
+nearshoring,outsourcing,24.5,15.8,19.0,-17.0,100,2022-05
+nearshoring,fábrica de software,0.0,0.0,0.1,-100.0,3,2022-02
+nearshoring,consultoría,15.2,17.1,16.8,2.0,24,2025-06
+nearshoring,desarrollo de software,23.5,17.4,22.7,-23.4,63,2022-09

@@ -1,0 +1,21 @@
+tanda,termino,media_5a,media_12m,media_12m_previos,crecimiento_%,pico,fecha_pico
+oferta_ia,agentes de ia,10.0,46.1,4.2,994.5,100,2026-10
+oferta_ia,automatizacion con ia,0.1,0.1,0.0,,25,2022-03
+oferta_ia,ia para empresas,8.4,25.3,12.8,98.6,57,2026-10
+oferta_ia,chatbot para empresas,0.1,0.0,0.7,-100.0,34,2025-04
+oferta_ia,asistente de ia,11.9,39.7,18.3,116.9,87,2026-09
+oferta_pos,punto de venta,78.4,81.2,79.6,2.0,100,2026-07
+oferta_pos,sistema de punto de venta,2.6,3.6,2.3,54.2,8,2026-09
+oferta_pos,software de inventario,0.5,0.1,0.6,-82.8,7,2025-09
+oferta_pos,control de inventario,7.9,6.3,7.2,-12.0,15,2022-02
+oferta_pos,sistema de facturacion,6.4,5.3,6.2,-13.7,13,2022-01
+oferta_odoo,odoo mexico,32.7,44.4,48.5,-8.4,100,2024-08
+oferta_odoo,implementacion de odoo,0.2,0.0,0.0,,28,2022-04
+oferta_odoo,consultor odoo,0.0,0.0,0.0,,0,2021-11
+oferta_odoo,odoo precio,0.9,4.7,0.0,,43,2026-05
+oferta_odoo,migracion odoo,0.5,1.2,0.8,46.5,63,2026-03
+oferta_gestion,sistema de gestion,63.3,45.5,63.4,-28.2,100,2022-02
+oferta_gestion,software de gestion,10.7,5.0,10.2,-51.5,29,2022-09
+oferta_gestion,sistema administrativo,16.5,14.4,14.4,0.0,34,2022-02
+oferta_gestion,sistema para empresa,32.3,25.6,28.8,-11.0,79,2022-03
+oferta_gestion,digitalizacion,14.8,12.7,16.2,-21.6,39,2025-02
